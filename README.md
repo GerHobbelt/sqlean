@@ -33,6 +33,8 @@ These extensions haven't yet made their way to the main set. They may be unteste
 
 Think of them as candidates for the standard library:
 
+See the [full extension list](https://github.com/nalgeon/sqlean/issues/27) and vote for your favorites! We'll refactor and merge popular ones into [the main set](https://github.com/nalgeon/sqlean).
+
 - [array](https://github.com/nalgeon/sqlean/issues/27#issuecomment-1004109889): one-dimensional arrays
 - [besttype](https://github.com/nalgeon/sqlean/issues/27#issuecomment-999732640): convert string value to numeric
 - [bloom](https://github.com/nalgeon/sqlean/issues/27#issuecomment-1002267134): a fast way to tell if a value is already in a table
